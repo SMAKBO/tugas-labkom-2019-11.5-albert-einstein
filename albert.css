@@ -1,0 +1,28 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+
+.jumbotron {
+  background-image: url('1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    
+    background-color: black;
+}
+
+
+
+.judul {
+  color: white;
+}
+
+.judul2 {
+  color: white;
+}
+
+.paragraf {
+	text-align: justify;
+
+}
