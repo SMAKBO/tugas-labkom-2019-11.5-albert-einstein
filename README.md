@@ -1,5 +1,5 @@
-# tugas-labkom-2019-11.5-albert-einstein
-tugas-labkom-2019-11.5-albert-einstein created by GitHub Classroom
+# tugas-labkom-2019-11_5-albert-einstein
+tugas-labkom-2019-11_5-albert-einstein created by GitHub Classroom
 1. Ilyas Afifi Abdurrahman 17.63.08675 (Ketua) 
 2. Indhira Oliffia 17.63.08676 (Wakil Ketua)
 3. Afif Rakha Iskandar 17.63.085752 (Anggota)
