@@ -22,3 +22,10 @@
   color: white;
 }
 
+img {
+    float:left
+}
+
+p {
+    text-alignment:justified
+}
