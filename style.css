@@ -6,13 +6,9 @@
 .jumbotron {
   background-image: url('https://github.com/SMAKBO/tugas-labkom-2019-11_5-albert-einstein/blob/master/img/Home4.jpeg');
     background-attachment: fixed;
-    background-repeat: no-repeat;
-
-    
+    background-repeat: no-repeat;  
     background-color: black;
 }
-
-
 
 .judul {
   color: white;
@@ -22,10 +18,10 @@
   color: white;
 }
 
-img {
+.img {
     float:left
 }
 
 p {
-    text-alignment:justified
+    text-align: justify-all;
 }
